@@ -1,0 +1,19 @@
+{
+  "name": "primer-repo",
+  "version": "1.0.0",
+  "description": "Mi primer repositorio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alfimart/primer-repo.git"
+  },
+  "author": "Alfredo Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alfimart/primer-repo/issues"
+  },
+  "homepage": "https://github.com/alfimart/primer-repo#readme"
+}
